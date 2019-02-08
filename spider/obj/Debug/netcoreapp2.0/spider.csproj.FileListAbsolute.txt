@@ -1,0 +1,11 @@
+D:\DotnetProject\spider\spider\bin\Debug\netcoreapp2.0\spider.deps.json
+D:\DotnetProject\spider\spider\bin\Debug\netcoreapp2.0\spider.runtimeconfig.json
+D:\DotnetProject\spider\spider\bin\Debug\netcoreapp2.0\spider.runtimeconfig.dev.json
+D:\DotnetProject\spider\spider\bin\Debug\netcoreapp2.0\spider.dll
+D:\DotnetProject\spider\spider\obj\Debug\netcoreapp2.0\spider.csprojAssemblyReference.cache
+D:\DotnetProject\spider\spider\obj\Debug\netcoreapp2.0\spider.csproj.CoreCompileInputs.cache
+D:\DotnetProject\spider\spider\obj\Debug\netcoreapp2.0\spider.AssemblyInfoInputs.cache
+D:\DotnetProject\spider\spider\obj\Debug\netcoreapp2.0\spider.AssemblyInfo.cs
+D:\DotnetProject\spider\spider\bin\Debug\netcoreapp2.0\spider.pdb
+D:\DotnetProject\spider\spider\obj\Debug\netcoreapp2.0\spider.dll
+D:\DotnetProject\spider\spider\obj\Debug\netcoreapp2.0\spider.pdb
